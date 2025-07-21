@@ -1,0 +1,16 @@
+{
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/api/chat": "pages/api/chat.js",
+  "/api/match": "pages/api/match.js",
+  "/api/report": "pages/api/report.js",
+  "/api/valuation": "pages/api/valuation.js",
+  "/auth/signin": "pages/auth/signin.js",
+  "/chat": "pages/chat.js",
+  "/dashboard": "pages/dashboard.js",
+  "/": "pages/index.js",
+  "/match": "pages/match.js",
+  "/report/[id]": "pages/report/[id].js",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}

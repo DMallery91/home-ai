@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 4d7d1f8afa4b03f391962a616cf26124eac2c330 DMallery91 <dmallery91@gmail.com> 1753088335 +0100	commit (initial): Initial commit
+4d7d1f8afa4b03f391962a616cf26124eac2c330 0000000000000000000000000000000000000000 DMallery91 <dmallery91@gmail.com> 1753088900 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 4d7d1f8afa4b03f391962a616cf26124eac2c330 DMallery91 <dmallery91@gmail.com> 1753088900 +0100	Branch: renamed refs/heads/master to refs/heads/main
+4d7d1f8afa4b03f391962a616cf26124eac2c330 3d2246406383f4e4b43c58efe5e7dd57dbe20e62 DMallery91 <dmallery91@gmail.com> 1753089733 +0100	commit: Add TypeScript support
+3d2246406383f4e4b43c58efe5e7dd57dbe20e62 9d6bbc3fc04cee76782bccf2fc89965609e79f78 DMallery91 <dmallery91@gmail.com> 1753090209 +0100	commit: Remove node_modules and add to .gitignore
+9d6bbc3fc04cee76782bccf2fc89965609e79f78 0aabfbfa9c52110c5536d8d35e7e68906ab12bc3 DMallery91 <dmallery91@gmail.com> 1753090525 +0100	commit: Remove node_modules and add to .gitignore

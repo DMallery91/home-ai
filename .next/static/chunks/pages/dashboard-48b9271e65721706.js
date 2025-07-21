@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[724],{753:()=>{},7580:(_,n,s)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/dashboard",function(){return s(753)}])}},_=>{_.O(0,[636,593,792],()=>_(_.s=7580)),_N_E=_.O()}]);
