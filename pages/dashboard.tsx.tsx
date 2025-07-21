@@ -1,3 +1,3 @@
-export default function dashboard() {
-  return <div>Dashboard Placeholder</div>;
+export default function DashboardPage() {
+  return <div>Dashboard Page Placeholder</div>;
 }

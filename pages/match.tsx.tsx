@@ -1,3 +1,3 @@
-export default function Matchmaking() {
+export default function MatchPage() {
   return <div>Matchmaking Page Placeholder</div>;
 }

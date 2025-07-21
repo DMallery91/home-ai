@@ -1,3 +1,3 @@
-export default function Chat() {
-  return <div>Chat coming soon!</div>;
+export default function ChatPage() {
+  return <div>Chat Page Placeholder</div>;
 }

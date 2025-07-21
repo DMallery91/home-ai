@@ -1,3 +1,3 @@
-export default function Index() {
-  return <div>Index Page Placeholder</div>;
+export default function HomePage() {
+  return <div>Welcome to Home.ai</div>;
 }
