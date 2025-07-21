@@ -1,1 +1,3 @@
-/* homepage component as last coded */
+export default function Index() {
+  return <div>Index Page Placeholder</div>;
+}
